@@ -6,9 +6,10 @@ I've created Metallic Bottle because I couldn't find anything which looked good 
 
 Metallic Bottle characterizes small differences between colours. For example Comments and Strings look similar but different in the same time.
 
-* Metallic Bottle screen shot in Geany editor:
+#### Metallic Bottle screen shot in Geany editor:
 ![Metallic Bottle screen shot in Geany editor](screenshot-geany.png?raw=true)
-* Metallic Bottle screen shot in Gedit:
+
+#### Metallic Bottle screen shot in Gedit:
 ![Metallic Bottle screen shot in Gedit](screenshot-gedit.png?raw=true)
 
 ####Installation on Geany####
