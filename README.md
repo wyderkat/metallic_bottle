@@ -18,7 +18,7 @@ Copy file [geany/metallic_bottle.conf](geany/metallic_bottle.conf) to ~/.config/
 
 ####Installation on Gedit####
 
-Copy file [gedit/metallic_bottle.xml](gedit/metallic_bottle.xml) to ~/.local/share/gtksourceview-3.0/styles directory (created gtksourceview-3.0 and styles subdirectories if missing).
+Copy file [gedit/metallic_bottle.xml](gedit/metallic_bottle.xml) to ~/.local/share/gtksourceview-3.0/styles directory (create gtksourceview-3.0 and styles subdirectories if missing).
 
 ####External####
 [Metallic Bottle original webpage on my business website](http://www.cofoh.com/mettalic_bottle)
