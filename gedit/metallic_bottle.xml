@@ -22,13 +22,12 @@
 
 <style-scheme id="metallic_bottle" _name="Metallic Bottle" version="1.0">
 
-  <author>Tomasz Wyderka</author>
-  <!-- http://www.cofoh.com/mettalic_bottle -->
   <_description>Bright color scheme matching GTK "Radiance" theme. </_description>
 
-  <!-- Palette -->
-  <color name="r"                   value="#ff0000"/>
+  <author>Tomasz Wyderka</author>
+  <!-- http://www.cofoh.com/mettalic_bottle -->
 
+  <!-- Palette -->
   <color name="b"                   value="#000000"/>
   <color name="w"                   value="#ffffff"/>
   <color name="fb"                  value="#FBFAF9"/>
